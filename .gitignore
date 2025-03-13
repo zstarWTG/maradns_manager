@@ -1,3 +1,8 @@
+cmake-build-debug-mingwqt515
+cmake-build-release-mingwqt515
+dp.bat
+.idea
+
 # C++ objects and libs
 *.slo
 *.lo
